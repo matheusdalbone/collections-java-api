@@ -1,4 +1,4 @@
-package operacaoLists;
+package List.operacaoLists;
 
 public class Item {
     private String nome;
